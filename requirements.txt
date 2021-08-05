@@ -5,6 +5,8 @@ scikit-learn == 0.24.2
 gunicorn == 20.1.0
 matplotlib == 3.4.1
 SVM == 0.1.0
+scv == 0.1
+seaborn == 0.11.1
 Xgboost == 1.4.2
 itsdangerous == 2.0.1
 jinja2 == 3.0.1
